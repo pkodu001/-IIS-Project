@@ -2,10 +2,13 @@
 **PROJECT TITLE: SCREEN READER LEARNING**
 
 **INTRODUCTION**
+
 *Problem Statement:*
+
 Visually impaired people often find it very difficult to learn how to use screen reader software, which reads out text and information on a computer screen. This research tried to understand the challenges these individuals face when learning screen readers.
 
 *Background Data:*
+
 Screen readers are essential assistive technologies that enable individuals with visual impairments to access and navigate digital content by converting on-screen text and visual information into audible or tactile output. However, learning to use screen readers effectively can be a complex and challenging process, often involving a steep learning curve and various accessibility barriers. The objective of this project was to gain insights into the experiences and challenges faced by visually impaired individuals in learning and using screen reader software. Specifically, the research aimed to address the following questions:
 1. What personal, educational, and technological factors influence the screen reader learning experience, making it easier or more difficult?
 2. How do accessibility issues and inclusive practices in educational and professional settings impact the acquisition of screen reader skills?
@@ -45,6 +48,7 @@ These themes highlighted the diverse range of factors that influence the screen 
  
 
 **CONCLUSION AND FUTURE WORK:**
+
 This project successfully analyzed qualitative data from ten interview transcripts to gain insights into the experiences and challenges faced by visually impaired individuals in learning and using screen reader software. The thematic analysis provided a comprehensive understanding of the various personal, educational, technological, and social factors that shape the screen reader learning experience.
 The findings from this project can inform the development of more effective and inclusive training programs, assistive technologies, and support systems for visually impaired individuals, ultimately enhancing their digital accessibility and independence. However, one limitation of this study is the relatively small sample size of 10 participants, which may not fully capture the diversity of experiences within the visually impaired community.
 Future research could involve conducting larger-scale studies with a more diverse sample of visually impaired screen reader users, as well as exploring specific themes or factors in greater depth. Additionally, collaborating with accessibility advocates, technology companies, and educational institutions to implement and evaluate potential solutions based on the study's findings would be valuable.
