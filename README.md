@@ -47,8 +47,8 @@ These themes highlighted the diverse range of factors that influence the screen 
  
  ![1](https://github.com/pkodu001/-IIS-Project/blob/main/Screenshot%20(187).png)
  ![2](Screenshot(183).png)
- ![3](Screenshot(185).png)
- ![4](Screenshot(186).png)
+ ![3](https://github.com/pkodu001/-IIS-Project/blob/main/Screenshot%20(183).png)
+ ![4](https://github.com/pkodu001/-IIS-Project/blob/main/Screenshot%20(187).png)
  
 **CONCLUSION AND FUTURE WORK:**
 
