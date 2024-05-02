@@ -45,7 +45,7 @@ The thematic analysis revealed several key themes and insights related to the ex
 6. The Influence of Social Support Systems: Support from family, friends, and communities facilitated the screen reader learning process and helped visually impaired individuals overcome challenges and achieve successful outcomes.
 These themes highlighted the diverse range of factors that influence the screen reader learning experience, including individual learning styles, instructional methods, accessibility barriers, inclusive environments, and support networks.
  
- ![1](Screenshot(182).png)
+ ![1](https://github.com/pkodu001/-IIS-Project/blob/main/Screenshot%20(187).png)
  ![2](Screenshot(183).png)
  ![3](Screenshot(185).png)
  ![4](Screenshot(186).png)
